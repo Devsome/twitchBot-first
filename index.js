@@ -10,7 +10,7 @@ const options = {
     },
     identity: {
         username: 'DavidNa',
-        password: 'oauth:xlp6nguh3ytbupuv9sjchmcf6mr2v9',
+        password: 'oauth:',
     },
     channels: ['DavidNa']
 };
